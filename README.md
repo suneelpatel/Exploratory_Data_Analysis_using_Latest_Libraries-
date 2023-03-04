@@ -7,7 +7,7 @@ The "Exploratory_Data_Analysis using Latest Libraries" repository is a comprehen
 
 This repository contains a wide range of examples and tutorials that cover different aspects of EDA, including data cleaning and preparation, data visualization, statistical analysis, and machine learning. The code examples are written in Python, which is the primary language used in data science.
 
-The repository features the latest libraries, such as Pandas, Matplotlib, Seaborn, Plotly, NumPy, Scikit-learn, and others. Each example is accompanied by detailed explanations of the code, so you can easily follow along and understand the concepts behind the analysis.
+The repository features the latest libraries, such as Plotly, Pandas Profiling, PyGwalker, SweetViz, AutoViz and so on. Each example is accompanied by detailed explanations of the code, so you can easily follow along and understand the concepts behind the analysis.
 
 In addition to code examples, the repository also includes resources such as cheat sheets, reference guides, and links to other helpful tutorials and resources. These resources are designed to help you quickly access the information you need and to provide you with a comprehensive understanding of EDA.
 
@@ -17,3 +17,10 @@ Whether you are a beginner or an experienced data analyst, this repository is a 
 ![New Project (1)](https://user-images.githubusercontent.com/48252015/222901236-8d59019f-ad82-4d2f-b3cd-f9603b6e0506.jpg)
 
 
+Here I’m sharing my Five Favorite Libraries with you: 
+
+1. Plotly
+2. Pandas Profiling
+3. PyGwalker
+4. SweetViz
+5. AutoViz
