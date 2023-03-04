@@ -12,3 +12,8 @@ The repository features the latest libraries, such as Pandas, Matplotlib, Seabor
 In addition to code examples, the repository also includes resources such as cheat sheets, reference guides, and links to other helpful tutorials and resources. These resources are designed to help you quickly access the information you need and to provide you with a comprehensive understanding of EDA.
 
 Whether you are a beginner or an experienced data analyst, this repository is a valuable resource that will help you gain a deeper understanding of EDA and the latest tools and libraries available for data analysis. With this repository, you will be able to explore your data, gain insights, and make informed decisions based on your analysis.
+
+
+![New Project (1)](https://user-images.githubusercontent.com/48252015/222901236-8d59019f-ad82-4d2f-b3cd-f9603b6e0506.jpg)
+
+
